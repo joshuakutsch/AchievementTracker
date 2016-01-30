@@ -1,7 +1,7 @@
 # Joshua Kutsch
 # CSCE 315- 502
 # AchievementTracker
-Compile this program in sun.cse.tamu.edu
+Compile this program in sun.cse.tamu.edu \n
   (You can really use any but I noticed in linux2 it would switch the last two games around in the SummarizePlayer output)
 
 First compile the program with: javac *.java
