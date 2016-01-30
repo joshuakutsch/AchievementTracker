@@ -1,0 +1,98 @@
+AddGame 1001 "Mirror's Edge"
+AddGame 1002 "Dark Souls"
+AddGame 1003 "Dishonored"
+AddGame 1004 "Deadlight"
+AddGame 1005 "League of Legends"
+ 
+AddAchievement 1001 901 "Access all areas" 20
+AddAchievement 1001 902 "Tango down" 15
+AddAchievement 1001 903 "Mine!" 15
+AddAchievement 1001 904 "Packrat" 80
+AddAchievement 1001 905 "Tango down" 20
+AddAchievement 1001 906 "Pro runner" 50
+AddAchievement 1001 907 "Crystal Weapon" 15
+ 
+AddAchievement 1002 801 "Prayer of a Maiden" 25
+AddAchievement 1002 802 "Dark Lord" 90
+ 
+AddAchievement 1003 701 "Faceless" 20
+AddAchievement 1003 702 "Resolution" 100
+AddAchievement 1003 703 "Surgical" 30
+AddAchievement 1003 704 "Tempest" 20
+ 
+AddAchievement 1004 601 "Go back to hell" 10
+AddAchievement 1004 602 "I want it all" 30
+ 
+AddAchievement 1005 501 "Double kill" 20
+AddAchievement 1005 502 "Penta kill" 50
+ 
+AddPlayer 10001 "Bill Hamilton"
+AddPlayer 10002 "Andruid Kerne"
+AddPlayer 10003 "Andrew Webb"
+AddPlayer 10004 "Nic Lupfer"
+AddPlayer 10005 "Lennart Nacke"
+ 
+AddFriends 10001 10002
+AddFriends 10001 10003
+AddFriends 10001 10004
+AddFriends 10001 10005
+AddFriends 10002 10003
+AddFriends 10002 10004
+AddFriends 10004 10005
+ 
+Plays 10001 1001 "FaithRunner1337"
+Plays 10001 1002 "AmazingAchievosAhead"
+Plays 10001 1003 "Splinez"
+Plays 10001 1004 "ApocalypticJumper666"
+Plays 10001 1005 "Splinez"
+Plays 10002 1001 "andruid"
+Plays 10002 1002 "andruid"
+Plays 10002 1003 "andruid"
+Plays 10002 1004 "andruid"
+Plays 10002 1005 "andruid"
+Plays 10003 1001 "amw"
+Plays 10003 1002 "messi"
+Plays 10003 1003 "kaka"
+Plays 10003 1004 "foobar"
+Plays 10003 1005 "no9"
+Plays 10004 1001 "thenic"
+Plays 10004 1002 "omgnic"
+Plays 10004 1003 "thenic"
+Plays 10004 1004 "omgnic"
+Plays 10004 1005 "nic"
+ 
+Achieve 10001 1001 901
+Achieve 10001 1001 902
+Achieve 10001 1001 903
+Achieve 10001 1001 904
+Achieve 10001 1001 905
+Achieve 10001 1001 906
+Achieve 10001 1001 907
+Achieve 10001 1002 801
+Achieve 10001 1002 802
+Achieve 10001 1003 701
+Achieve 10001 1003 702
+Achieve 10001 1004 601
+ 
+Achieve 10002 1001 901
+Achieve 10002 1002 801
+Achieve 10002 1003 701
+Achieve 10002 1004 601
+ 
+Achieve 10003 1001 901
+Achieve 10003 1001 902
+Achieve 10003 1002 801
+Achieve 10003 1002 802
+Achieve 10003 1003 701
+Achieve 10003 1003 702
+Achieve 10003 1004 601
+Achieve 10003 1004 602
+ 
+Achieve 10004 1001 901
+Achieve 10004 1002 801
+Achieve 10004 1003 702
+Achieve 10004 1004 601
+Achieve 10004 1005 501
+Achieve 10004 1005 502
+ 
+SummarizePlayer 10001
